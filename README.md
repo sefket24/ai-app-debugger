@@ -1,6 +1,6 @@
 # AI App Failure Debugger
 
-A minimal support tool that diagnoses why AI-generated apps (built with tools like Blink, Bolt, Lovable, etc.) aren't working correctly.
+A minimal support tool that diagnoses why AI-generated apps aren't working correctly.
 
 Built with Next.js (App Router) + Tailwind CSS. No database. No auth.
 
