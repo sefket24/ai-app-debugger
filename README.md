@@ -4,6 +4,8 @@ A minimal support tool that diagnoses why AI-generated apps aren't working corre
 
 Built with Next.js (App Router) + Tailwind CSS. No database. No auth.
 
+This should feel like an internal tool a startup support team would actually use to debug user issues quickly.
+
 ## What it does
 
 Paste in what you were trying to build, what went wrong, and any error logs. The tool returns a structured diagnosis:
